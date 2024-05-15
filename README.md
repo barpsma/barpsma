@@ -6,7 +6,7 @@ I love learn new thing in programming such as Javascript, PHP, Python.
     <img src="https://img.shields.io/badge/OS-MacOS-blue?style=flat&logo=macos" />
     <img src="https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=windows" />
     <img src="https://img.shields.io/badge/OS-Linux-grey?style=flat&logo=linux"/>
-    <img src="https://img.shields.io/badge/OS-VSCode-blue?style=flat&logo=visualstudiocode" />
+    <img src="https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visualstudiocode" />
     <img src="https://img.shields.io/badge/-Xampp-grey?style=flat&logo=xampp"/>
     <img src="https://img.shields.io/badge/-Docker-grey?style=flat&logo=docker"/>
     <img src="https://img.shields.io/badge/-DBeaver-grey?style=flat&logo=dbeaver"/>

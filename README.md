@@ -18,6 +18,7 @@ I love learn new thing in programming such as Javascript, PHP, Python.
     <img src="https://img.shields.io/badge/-PremierePro-grey?style=flat&logo=adobepremierepro"/>
     <img src="https://img.shields.io/badge/-Lightroom-grey?style=flat&logo=adobelightroom"/>
     <img src="https://img.shields.io/badge/-AfterEffects-grey?style=flat&logo=adobeaftereffects"/>
+    <img src="https://img.shields.io/badge/-Illustrator-grey?style=flat&logo=adobeillustrator"/>
     <img src="https://img.shields.io/badge/-Blender3D-grey?style=flat&logo=blender"/>
     <img src="https://img.shields.io/badge/-Unity3D-grey?style=flat&logo=unity"/>
     <img src="https://img.shields.io/badge/-Selenium-grey?style=flat&logo=selenium"/>

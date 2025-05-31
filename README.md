@@ -58,7 +58,7 @@ I love learn new thing in programming such as Javascript, PHP, Python.
 
 ### Let's connect!
 <p>
-    <a href="https://makbar.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Website-https://makbar.netlify.app/-green?" /></a>
+    <a href="https://muhammadakbar.my.id/" target="blank"><img src="https://img.shields.io/badge/Website-https://makbar.netlify.app/-green?" /></a>
     <a href="https://www.linkedin.com/in/muhammad-akbar-007b0a20a/" target="blank"><img src="https://img.shields.io/badge/-Muhammad%20Akbar-grey?style=flat&logo=linkedin" /></a>
     <a href="https://www.instagram.com/m_bar12" target="blank"><img src="https://img.shields.io/badge/-%40m.bar12-grey?style=flat&logo=instagram" /></a>
 </p>
